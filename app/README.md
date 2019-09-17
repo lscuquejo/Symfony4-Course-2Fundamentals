@@ -4,8 +4,7 @@
 **Installation**
 -----
 Make sure you have [Composer installed](https://getcomposer.org/download/)
-and then run:
-
+and then run:k
 ```
 composer install
 ```
